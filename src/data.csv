@@ -1,0 +1,150 @@
+"message	",category
+"RAS KERNEL INFO instruction cache parity error corrected	",cache.error
+"RAS KERNEL INFO instruction cache parity error corrected	",cache.error
+"RAS KERNEL INFO instruction cache parity error corrected	",cache.error
+"RAS KERNEL INFO 63543 double-hummer alignment exceptions	",alignment.exception
+"RAS KERNEL FATAL data storage interrupt	",data.error
+"privileged instruction	",prev.instruct
+"RAS KERNEL FATAL data storage interrupt	",data.error
+"RAS KERNEL INFO instruction cache parity error corrected	",cache.error
+"RAS KERNEL FATAL data storage interrupt	",data.error
+"RAS KERNEL FATAL data storage interrupt	",data.error
+"RAS KERNEL INFO 63543 double-hummer alignment exceptions	",alignment.exception
+"RAS KERNEL INFO 63543 double-hummer alignment exceptions	",alignment.exception
+"RAS KERNEL INFO 63543 double-hummer alignment exceptions	",alignment.exception
+"RAS KERNEL FATAL data storage interrupt	",data.error
+"RAS KERNEL FATAL data storage interrupt	",data.error
+"RAS KERNEL INFO instruction cache parity error corrected	",cache.error
+"RAS KERNEL FATAL data storage interrupt	",data.error
+"RAS KERNEL INFO 63543 double-hummer alignment exceptions	",alignment.exception
+"RAS KERNEL INFO instruction cache parity error corrected	",cache.error
+"privileged instruction	",prev.instruct
+"privileged instruction	",prev.instruct
+"privileged instruction	",prev.instruct
+"RAS KERNEL INFO instruction cache parity error corrected	",cache.error
+"privileged instruction	",prev.instruct
+"RAS KERNEL INFO instruction cache parity error corrected	",cache.error
+"privileged instruction	",prev.instruct
+"RAS KERNEL INFO 63543 double-hummer alignment exceptions	",alignment.exception
+"RAS KERNEL INFO 63543 double-hummer alignment exceptions	",alignment.exception
+"RAS KERNEL FATAL data storage interrupt	",data.error
+"RAS KERNEL FATAL data storage interrupt	",data.error
+"RAS KERNEL INFO instruction cache parity error corrected	",cache.error
+"RAS KERNEL FATAL data storage interrupt	",data.error
+"RAS KERNEL FATAL data storage interrupt	",data.error
+"RAS KERNEL INFO 63543 double-hummer alignment exceptions	",alignment.exception
+"RAS KERNEL INFO 63543 double-hummer alignment exceptions	",alignment.exception
+"RAS KERNEL INFO instruction cache parity error corrected	",cache.error
+"RAS KERNEL FATAL data storage interrupt	",data.error
+"RAS KERNEL FATAL data storage interrupt	",data.error
+"RAS KERNEL FATAL data storage interrupt	",data.error
+RAS KERNEL INFO 63543 double-hummer alignment exceptions,alignment.exception
+"RAS KERNEL INFO 63543 double-hummer alignment exceptions	",alignment.exception
+"RAS KERNEL INFO 63543 double-hummer alignment exceptions	",alignment.exception
+"RAS KERNEL FATAL data storage interrupt	",data.error
+"RAS KERNEL FATAL data storage interrupt	",data.error
+"RAS KERNEL FATAL exception syndrome register	",kernel.error
+"RAS KERNEL FATAL data storage interrupt	",data.error
+"RAS KERNEL INFO instruction cache parity error corrected	",cache.error
+"RAS KERNEL INFO instruction cache parity error corrected	",cache.error
+"RAS KERNEL INFO instruction cache parity error corrected	",cache.error
+"RAS KERNEL INFO instruction cache parity error corrected	",cache.error
+"RAS KERNEL INFO instruction cache parity error corrected	",cache.error
+"RAS KERNEL FATAL exception syndrome register	",kernel.error
+"privileged instruction	",prev.instruct
+"RAS KERNEL FATAL critical input interrupt enable	",input.interrupt
+"privileged instruction	",prev.instruct
+"RAS KERNEL FATAL critical input interrupt enable	",input.interrupt
+"privileged instruction	",prev.instruct
+"RAS KERNEL FATAL exception syndrome register	",kernel.error
+"privileged instruction	",prev.instruct
+"RAS KERNEL FATAL exception syndrome register	",kernel.error
+"RAS KERNEL FATAL exception syndrome register	",kernel.error
+"privileged instruction	",prev.instruct
+"privileged instruction	",prev.instruct
+"privileged instruction	",prev.instruct
+"RAS KERNEL FATAL exception syndrome register	",kernel.error
+"RAS KERNEL FATAL exception syndrome register	",kernel.error
+"privileged instruction	",prev.instruct
+"RAS KERNEL FATAL exception syndrome register	",kernel.error
+"RAS KERNEL FATAL exception syndrome register	",kernel.error
+"RAS KERNEL FATAL exception syndrome register	",kernel.error
+"privileged instruction	",prev.instruct
+"RAS KERNEL FATAL critical input interrupt enable	",input.interrupt
+"RAS KERNEL FATAL exception syndrome register	",kernel.error
+"RAS KERNEL FATAL exception syndrome register	",kernel.error
+"privileged instruction	",prev.instruct
+"privileged instruction	",prev.instruct
+"RAS KERNEL FATAL exception syndrome register	",kernel.error
+"RAS KERNEL FATAL exception syndrome register	",kernel.error
+"RAS KERNEL FATAL exception syndrome register	",kernel.error
+"RAS KERNEL FATAL exception syndrome register	",kernel.error
+"privileged instruction	",prev.instruct
+"RAS KERNEL FATAL special purpose registers	",speacial.register
+"RAS KERNEL FATAL special purpose registers	",speacial.register
+"RAS KERNEL FATAL special purpose registers	",speacial.register
+"RAS KERNEL FATAL special purpose registers	",speacial.register
+"RAS KERNEL FATAL special purpose registers	",speacial.register
+"RAS KERNEL FATAL critical input interrupt enable	",input.interrupt
+"RAS KERNEL FATAL special purpose registers	",speacial.register
+"RAS KERNEL FATAL critical input interrupt enable	",input.interrupt
+"RAS KERNEL FATAL special purpose registers	",speacial.register
+"RAS KERNEL FATAL critical input interrupt enable	",input.interrupt
+"RAS KERNEL FATAL critical input interrupt enable	",input.interrupt
+"RAS KERNEL FATAL critical input interrupt enable	",input.interrupt
+"RAS KERNEL FATAL critical input interrupt enable	",input.interrupt
+"RAS KERNEL FATAL critical input interrupt enable	",input.interrupt
+"RAS KERNEL FATAL critical input interrupt enable	",input.interrupt
+"RAS KERNEL FATAL critical input interrupt enable	",input.interrupt
+"RAS KERNEL FATAL critical input interrupt enable	",input.interrupt
+"RAS KERNEL FATAL critical input interrupt enable	",input.interrupt
+"RAS KERNEL FATAL critical input interrupt enable	",input.interrupt
+"RAS KERNEL FATAL critical input interrupt enable	",input.interrupt
+"RAS KERNEL FATAL special purpose registers	",speacial.register
+"RAS KERNEL FATAL special purpose registers	",speacial.register
+"RAS KERNEL FATAL critical input interrupt enable	",input.interrupt
+"RAS KERNEL FATAL special purpose registers	",speacial.register
+"RAS KERNEL FATAL special purpose registers	",speacial.register
+"RAS KERNEL FATAL special purpose registers	",speacial.register
+"RAS KERNEL FATAL special purpose registers	",speacial.register
+"RAS KERNEL FATAL special purpose registers	",speacial.register
+"RAS KERNEL FATAL special purpose registers	",speacial.register
+"RAS KERNEL FATAL special purpose registers	",speacial.register
+"RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls	",rbs.signal
+RAS APP FATAL ciod Error reading message prefix on CioStream socket,ciostream.socket
+"RAS APP FATAL ciod Error reading message prefix on CioStream socket	",ciostream.socket
+"RAS APP FATAL ciod Error reading message prefix on CioStream socket	",ciostream.socket
+RAS APP FATAL ciod Error reading message prefix on CioStream socket,ciostream.socket
+"RAS APP FATAL ciod Error reading message prefix on CioStream socket	",ciostream.socket
+"RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls	",rbs.signal
+"RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls	",rbs.signal
+"RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls	",rbs.signal
+"RAS APP FATAL ciod Error reading message prefix on CioStream socket	",ciostream.socket
+"RAS APP FATAL ciod Error reading message prefix on CioStream socket	",ciostream.socket
+"RAS APP FATAL ciod Error reading message prefix on CioStream socket	",ciostream.socket
+"RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls	",rbs.signal
+"RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls	",rbs.signal
+"RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls	",rbs.signal
+"RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls	",rbs.signal
+"RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls	",rbs.signal
+"RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls	",rbs.signal
+"RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls	",rbs.signal
+"RAS APP FATAL ciod Error reading message prefix on CioStream socket	",ciostream.socket
+"RAS APP FATAL ciod Error reading message prefix on CioStream socket	",ciostream.socket
+"RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls	",rbs.signal
+RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls,rbs.signal
+"RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls	",rbs.signal
+"RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls	",rbs.signal
+"RAS APP FATAL ciod Error reading message prefix on CioStream socket	",ciostream.socket
+"RAS APP FATAL ciod Error reading message prefix on CioStream socket	",ciostream.socket
+"RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls	",rbs.signal
+"RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls	",rbs.signal
+"RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls	",rbs.signal
+"RAS APP FATAL ciod Error reading message prefix on CioStream socket	",ciostream.socket
+"RAS APP FATAL ciod Error reading message prefix on CioStream socket	",ciostream.socket
+"RAS APP FATAL ciod Error reading message prefix on CioStream socket	",ciostream.socket
+"RAS APP FATAL ciod Error reading message prefix on CioStream socket	",ciostream.socket
+"RAS APP FATAL ciod Error reading message prefix on CioStream socket	",ciostream.socket
+"RAS APP FATAL ciod Error reading message prefix on CioStream socket	",ciostream.socket
+RAS APP FATAL ciod Error reading message prefix on CioStream socket,ciostream.socket
+"RAS APP FATAL ciod Error reading message prefix on CioStream socket	",ciostream.socket
